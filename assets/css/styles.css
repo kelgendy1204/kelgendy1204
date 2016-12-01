@@ -87,9 +87,9 @@ p {
 }
 .sidebar-wrapper .profile {
   margin-bottom: 15px;
-  width: 100px;
+  /*width: 100px;*/
   height: 100px;
-  border-radius: 50%;
+  border-radius: 20%;
 }
 .sidebar-wrapper .contact-list .fa {
   margin-right: 5px;
